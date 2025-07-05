@@ -1,7 +1,7 @@
 {
   "name": "radios",
   "short_name": "MiBlogger",
-  "start_url": "https://lapositivaradio.blogspot.com/2025/07/inatalr.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
